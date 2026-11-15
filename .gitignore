@@ -1,0 +1,10 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arduino build output
+firmware/**/build/
+
+# The Flutter app has its own .gitignore in app/
